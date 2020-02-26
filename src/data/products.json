@@ -1,0 +1,92 @@
+[
+  {
+    "id": 74644,
+    "stock": 4,
+    "img": "images/homepod.png",
+    "rating": 3.4,
+    "currency": "$",
+    "price": 399,
+    "title": "Apple Watch Series 4 GPS",
+    "desc": "Redesigned from scratch and completely revised."
+  },
+  {
+    "id": 74645,
+    "stock": 5,
+    "img": "images/jbl-speaker.png",
+    "rating": 5.0,
+    "currency": "$",
+    "price": 199,
+    "title": "JBL Speaker",
+    "desc": "Redesigned from scratch and completely revised."
+  },
+  {
+    "id": 74646,
+    "stock": 2,
+    "img": "images/iphone-x.png",
+    "rating": 4.4,
+    "currency": "$",
+    "price": 899,
+    "title": "Apple iPhone X 128GB",
+    "desc": "Redesigned from scratch and completely revised."
+  },
+  {
+    "id": 74647,
+    "stock": 4,
+    "img": "images/ipad-pro.png",
+    "rating": 3.4,
+    "currency": "$",
+    "price": 459,
+    "title": "Beats Headphones",
+    "desc": "Redesigned from scratch and completely revised."
+  },
+  {
+    "id": 74648,
+    "stock": 4,
+    "img": "images/macbook-pro.png",
+    "rating": 4.5,
+    "currency": "$",
+    "price": 2499,
+    "title": "Apple Macbook Pro 512GB SSD",
+    "desc": "Redesigned from scratch and completely revised."
+  },
+  {
+    "id": 74649,
+    "stock": 4,
+    "img": "images/ipad-pro.png",
+    "rating": 5.0,
+    "currency": "$",
+    "price": 899,
+    "title": "Apple iPad Pro 64GB",
+    "desc": "Redesigned from scratch and completely revised."
+  },
+  {
+    "id": 74650,
+    "stock": 5,
+    "img": "images/homepod.png",
+    "rating": 3.3,
+    "currency": "$",
+    "price": 399,
+    "title": "Apple Homepod",
+    "desc": "Redesigned from scratch and completely revised."
+  },
+  {
+    "id": 74651,
+    "stock": 5,
+    "img": "images/jlab-audio-wireless.png",
+    "rating": 5.0,
+    "currency": "$",
+    "price": 2499,
+    "title": "JBuds Air Wireless Bluetooth…",
+    "desc": "Redesigned from scratch and completely revised."
+  },
+  {
+    "id": 74652,
+    "stock": 5,
+    "img": "images/magic-mouse.png",
+    "rating": 4.4,
+    "currency": "$",
+    "price": 2499,
+    "title": "Apple Magic Mouse",
+    "desc": "Redesigned from scratch and completely revised."
+  }
+]
