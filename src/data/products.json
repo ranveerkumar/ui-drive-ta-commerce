@@ -1,7 +1,6 @@
 [
   {
     "id": 74644,
-    "stock": 4,
     "img": "images/homepod.png",
     "rating": 3.4,
     "currency": "$",
@@ -11,7 +10,6 @@
   },
   {
     "id": 74645,
-    "stock": 5,
     "img": "images/jbl-speaker.png",
     "rating": 5.0,
     "currency": "$",
@@ -21,7 +19,6 @@
   },
   {
     "id": 74646,
-    "stock": 2,
     "img": "images/iphone-x.png",
     "rating": 4.4,
     "currency": "$",
@@ -31,7 +28,6 @@
   },
   {
     "id": 74647,
-    "stock": 4,
     "img": "images/ipad-pro.png",
     "rating": 3.4,
     "currency": "$",
@@ -41,7 +37,6 @@
   },
   {
     "id": 74648,
-    "stock": 4,
     "img": "images/macbook-pro.png",
     "rating": 4.5,
     "currency": "$",
@@ -51,7 +46,6 @@
   },
   {
     "id": 74649,
-    "stock": 4,
     "img": "images/ipad-pro.png",
     "rating": 5.0,
     "currency": "$",
@@ -61,7 +55,6 @@
   },
   {
     "id": 74650,
-    "stock": 5,
     "img": "images/homepod.png",
     "rating": 3.3,
     "currency": "$",
@@ -71,7 +64,6 @@
   },
   {
     "id": 74651,
-    "stock": 5,
     "img": "images/jlab-audio-wireless.png",
     "rating": 5.0,
     "currency": "$",
@@ -81,7 +73,6 @@
   },
   {
     "id": 74652,
-    "stock": 5,
     "img": "images/magic-mouse.png",
     "rating": 4.4,
     "currency": "$",

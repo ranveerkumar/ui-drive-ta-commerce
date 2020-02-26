@@ -44,11 +44,7 @@ Click on any item, such as image, copy-text, button etc. to select it - and you 
 *   Include or load the product JSON data ('data/products.json') using AJAX/Fetch API.
 *   Iterate through the products' and generate the product cards (as per the mockup).
 *   User should be able to type a keyword e.g. product name in the Search bar (above) - this action should filter the products from JSON and show only the filtered result.
-*   Allow users to click "Add to Cart" button and add the item into the cart.
-*   Cart icon at the top should show the number of items added into it (No real Cart needs to be implement).
-*   User can click multiple times for each product and the number at cart icon would keep increasing.
-*   Each product JSON object has a key 'stock' - use this to apply a limit on maximum number of times an individual can be added into the cart. Example: if Apple watch stock is 5, user cannot add more than 5 watches in the cart.
-*   If user reaches the stock limit, that product cart should show "Out of Stock" on the product card (as per mockup) - with a dimmed overlay, also clicking "Add to Cart" should be disabled.
+
 
 #How to submit the code?
 * Finish the code 5-10 minutes before the finish time.
