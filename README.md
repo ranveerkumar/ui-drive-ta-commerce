@@ -46,7 +46,7 @@ Click on any item, such as image, copy-text, button etc. to select it - and you 
 *   User should be able to type a keyword e.g. product name in the Search bar (above) - this action should filter the products from JSON and show only the filtered result.
 
 
-#How to submit the code?
+# How to submit the code?
 * Finish the code 5-10 minutes before the finish time.
 * Zip the folder
 * Upload it on HackerRank
