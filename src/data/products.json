@@ -1,83 +1,221 @@
-[
-  {
-    "id": 74644,
-    "img": "images/homepod.png",
-    "rating": 3.4,
-    "currency": "$",
-    "price": 399,
-    "title": "Apple Watch Series 4 GPS",
-    "desc": "Redesigned from scratch and completely revised."
-  },
-  {
-    "id": 74645,
-    "img": "images/jbl-speaker.png",
-    "rating": 5.0,
-    "currency": "$",
-    "price": 199,
-    "title": "JBL Speaker",
-    "desc": "Redesigned from scratch and completely revised."
-  },
-  {
-    "id": 74646,
-    "img": "images/iphone-x.png",
-    "rating": 4.4,
-    "currency": "$",
-    "price": 899,
-    "title": "Apple iPhone X 128GB",
-    "desc": "Redesigned from scratch and completely revised."
-  },
-  {
-    "id": 74647,
-    "img": "images/ipad-pro.png",
-    "rating": 3.4,
-    "currency": "$",
-    "price": 459,
-    "title": "Beats Headphones",
-    "desc": "Redesigned from scratch and completely revised."
-  },
-  {
-    "id": 74648,
-    "img": "images/macbook-pro.png",
-    "rating": 4.5,
-    "currency": "$",
-    "price": 2499,
-    "title": "Apple Macbook Pro 512GB SSD",
-    "desc": "Redesigned from scratch and completely revised."
-  },
-  {
-    "id": 74649,
-    "img": "images/ipad-pro.png",
-    "rating": 5.0,
-    "currency": "$",
-    "price": 899,
-    "title": "Apple iPad Pro 64GB",
-    "desc": "Redesigned from scratch and completely revised."
-  },
-  {
-    "id": 74650,
-    "img": "images/homepod.png",
-    "rating": 3.3,
-    "currency": "$",
-    "price": 399,
-    "title": "Apple Homepod",
-    "desc": "Redesigned from scratch and completely revised."
-  },
-  {
-    "id": 74651,
-    "img": "images/jlab-audio-wireless.png",
-    "rating": 5.0,
-    "currency": "$",
-    "price": 2499,
-    "title": "JBuds Air Wireless Bluetooth…",
-    "desc": "Redesigned from scratch and completely revised."
-  },
-  {
-    "id": 74652,
-    "img": "images/magic-mouse.png",
-    "rating": 4.4,
-    "currency": "$",
-    "price": 2499,
-    "title": "Apple Magic Mouse",
-    "desc": "Redesigned from scratch and completely revised."
-  }
+[{
+        "id": 74644,
+        "stock": 4,
+        "img": "img/apple-watch.png",
+        "rating": 3.4,
+        "currency": "$",
+        "price": 399,
+        "title": "Apple Watch Series 4 GPS",
+        "desc": "Redesigned from scratch and completely revised."
+    },
+    {
+        "id": 74645,
+        "stock": 5,
+        "img": "img/jbl-speaker.png",
+        "rating": 5.0,
+        "currency": "$",
+        "price": 199,
+        "title": "JBL Speaker",
+        "desc": "Enjoy surprisingly powerful, room-filling stereo sound."
+    },
+    {
+        "id": 74646,
+        "stock": 2,
+        "img": "img/iphone-x.png",
+        "rating": 4.4,
+        "currency": "$",
+        "price": 899,
+        "title": "Apple iPhone X 128GB",
+        "desc": "Welcome to the Big Screen"
+    },
+    {
+        "id": 74647,
+        "stock": 4,
+        "img": "img/beats-headphones.png",
+        "rating": 3.4,
+        "currency": "$",
+        "price": 459,
+        "title": "Beats Headphones",
+        "desc": "Feel your music with All Day Play."
+    },
+    {
+        "id": 74648,
+        "stock": 4,
+        "img": "img/macbook-pro.png",
+        "rating": 4.5,
+        "currency": "$",
+        "price": 2499,
+        "title": "Apple Macbook Pro 512GB SSD",
+        "desc": "With great power comes great capability."
+    },
+    {
+        "id": 74649,
+        "stock": 4,
+        "img": "img/ipad-pro.png",
+        "rating": 5.0,
+        "currency": "$",
+        "price": 899,
+        "title": "Apple iPad Pro 64GB",
+        "desc": "More display, more space to multitask."
+    },
+    {
+        "id": 74650,
+        "stock": 5,
+        "img": "img/homepod.png",
+        "rating": 3.3,
+        "currency": "$",
+        "price": 399,
+        "title": "Apple Homepod",
+        "desc": "The new sound of home."
+    },
+    {
+        "id": 74651,
+        "stock": 5,
+        "img": "img/jlab-audio-wireless.png",
+        "rating": 4.4,
+        "currency": "$",
+        "price": 99,
+        "title": "Apple Magic Mouse",
+        "desc": "Lighter and optimized foot design"
+    },
+    {
+        "id": 74652,
+        "stock": 5,
+        "img": "img/magic-mouse.png",
+        "rating": 5.0,
+        "currency": "$",
+        "price": 14.95,
+        "title": "JBuds Air Wireless Bluetooth…",
+        "desc": "Executive True Wireless Bluetooth Earbuds."
+    },
+    {
+        "id": 74653,
+        "stock": 5,
+        "img": "img/alexa.png",
+        "rating": 4.4,
+        "currency": "$",
+        "price": 99.99,
+        "title": "Amazon Echo (Black)",
+        "desc": "Improved smart speaker with Alexa"
+    },
+    {
+        "id": 74654,
+        "stock": 4,
+        "img": "img/bluetoothspeaker.png",
+        "rating": 4.5,
+        "currency": "$",
+        "price": 146.8,
+        "title": "BOSE Soundlink Mini II",
+        "desc": "A compact audio powerhouse."
+    },
+    {
+        "id": 74655,
+        "stock": 5,
+        "img": "img/antifacemask.png",
+        "rating": 5.0,
+        "currency": "$",
+        "price": 16.99,
+        "title": "Anti Pollution Mask",
+        "desc": "Anti Pollution Mask with 4 Activated Carbon Filters."
+    },
+    {
+        "id": 74656,
+        "stock": 2,
+        "img": "img/camera.png",
+        "rating": 4.4,
+        "currency": "$",
+        "price": 2699,
+        "title": "Digital SLR Camera (Black)",
+        "desc": "With 24.1-megapixel APS-C-size CMOS sensor and an optical viewfinder."
+    },
+    {
+        "id": 74657,
+        "stock": 4,
+        "img": "img/watch.png",
+        "rating": 3.4,
+        "currency": "$",
+        "price": 276.98,
+        "title": "Gold Men's Big Watch",
+        "desc": "Luxary and style together."
+    },
+    {
+        "id": 74658,
+        "stock": 4,
+        "img": "img/television.png",
+        "rating": 4.5,
+        "currency": "$",
+        "price": 1116.12,
+        "title": "138.8 cm (55 inches)LED TV",
+        "desc": "4K UHD for your best viewing experience."
+    },
+    {
+        "id": 74659,
+        "stock": 4,
+        "img": "img/powerbank.png",
+        "rating": 5.0,
+        "currency": "$",
+        "price": 36.95,
+        "title": "10000mAh Power Bank",
+        "desc": "Say No to Battery Drainage."
+    },
+    {
+        "id": 74660,
+        "stock": 5,
+        "img": "img/flashdrive.png",
+        "rating": 3.3,
+        "currency": "$",
+        "price": 19.49,
+        "title": "128 GB Pen Drive",
+        "desc": "High-speed USB 3.0 performance of up to 150MB/s."
+    },
+    {
+        "id": 74661,
+        "stock": 5,
+        "img": "img/refrigerator.png",
+        "rating": 5.0,
+        "currency": "$",
+        "price": 176.08,
+        "title": "Mini Fridge for Bedroom/Office",
+        "desc": "Double door mini fridge with freezer & adjustable remove glass shelves."
+    },
+    {
+        "id": 74662,
+        "stock": 5,
+        "img": "img/treadmill.png",
+        "rating": 4.4,
+        "currency": "$",
+        "price": 379.99,
+        "title": "Home Gym Fitness Machine",
+        "desc": "Electric Folding Treadmill Manual 2-Level Incline."
+    },
+    {
+        "id": 74663,
+        "stock": 4,
+        "img": "img/photocopier.png",
+        "rating": 3.4,
+        "currency": "$",
+        "price": 632.49,
+        "title": "Multifunctionala Xerox WorkCentre",
+        "desc": "Powerful performance and peace of mind."
+    },
+    {
+        "id": 74664,
+        "stock": 5,
+        "img": "img/networkcamera.png",
+        "rating": 5.0,
+        "currency": "$",
+        "price": 239.99,
+        "title": "8 MP Bullet Camera",
+        "desc": "Mobile HD Rechargeable Battery Powered Wire-Free Camera."
+    },
+    {
+        "id": 74665,
+        "stock": 5,
+        "img": "img/coffeemachine.png",
+        "rating": 5.0,
+        "currency": "$",
+        "price": 169.99,
+        "title": "Coffee Maker (Black)",
+        "desc": "Programmable Coffee Maker with Classic and Rich Brews."
+    }
 ]
