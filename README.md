@@ -37,7 +37,7 @@ Browse this style specs. here: [https://xd.adobe.com/view/436434f7-0542-43c5-713
 Click on any item, such as image, copy-text, button etc. to select it - and you would see the related style specifications in the right side:
 ![XD Style Specification](./md-assets/ta-commerce-specs.jpg)
 
-####Don't try copy and use the CSS from XD specs. (it would waste your time) - just take a look at the specifications e.g. - height, width, font family, font size etc. and use those value in your CSS.
+#### Don't try copy and use the CSS from XD specs. (it would waste your time) - just take a look at the specifications e.g. - height, width, font family, font size etc. and use those value in your CSS.
 
 
 ## JavaScript Functionalities
@@ -46,7 +46,7 @@ Click on any item, such as image, copy-text, button etc. to select it - and you 
 *   User should be able to type a keyword e.g. product name in the Search bar (above) - this action should filter the products from JSON and show only the filtered result.
 
 
-#How to submit the code?
+# How to submit the code?
 * Finish the code 5-10 minutes before the finish time.
 * Zip the folder
 * Upload it on HackerRank
