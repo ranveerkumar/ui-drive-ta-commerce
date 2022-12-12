@@ -35,7 +35,7 @@
     "nyc": "^14.1.1"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "window": "^4.2.6"
   }
